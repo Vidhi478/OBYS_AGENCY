@@ -1,5 +1,5 @@
 # OBYS_AGENCY
--This is a clone of the Obys Agency website built using HTML, CSS, JavaScript and modern web animation libraries.
+This is a clone of the Obys Agency website built using HTML, CSS, JavaScript and modern web animation libraries.
 ## 😉Features
 - Smooth scrolling with Locomotive Scroll.
 - Clean and modern UI
